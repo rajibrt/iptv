@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,Gazi Tv
+#EXTINF:-1 group-title="Bangladeshi Channel",Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 ,ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
