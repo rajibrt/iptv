@@ -1,37 +1,37 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangladeshi Channel",Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 ,ATN Bangla
+#EXTINF:-1 group-title="Bangladeshi Channel",ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 ,ATN News
+#EXTINF:-1 group-title="Bangladeshi Channel",ATN News
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1 ,Banglavision TV
+#EXTINF:-1 group-title="Bangladeshi Channel",Banglavision TV
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 ,Boishakhi TV
+#EXTINF:-1 group-title="Bangladeshi Channel",Boishakhi TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 ,BTV World
+#EXTINF:-1 group-title="Bangladeshi Channel",BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 ,Channel 9
+#EXTINF:-1 group-title="Bangladeshi Channel",Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 ,Channel I
+#EXTINF:-1 group-title="Bangladeshi Channel",Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 ,DBC News
+#EXTINF:-1 group-title="Bangladeshi News Channel",DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1 ,Deepto TV
+#EXTINF:-1 group-title="Bangladeshi Channel",Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1 ,Desh TV
+#EXTINF:-1 group-title="Bangladeshi Channel",Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1 ,Duronto TV
+#EXTINF:-1 group-title="Bangladeshi Kids Channel",Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1,Banagala :Ekattor TV
 http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2382.ts
-#EXTINF:-1 ,Ekushey TV
+#EXTINF:-1 group-title="Bangladeshi Channel",Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 ,Independent TV
+#EXTINF:-1 group-title="Bangladeshi News Channel",Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1 ,NTV
+#EXTINF:-1 group-title="Bangladeshi Channel",NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 ,Nagorik TV
+#EXTINF:-1 group-title="Bangladeshi Channel",Nagorik TV
 https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1 ,RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
