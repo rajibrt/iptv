@@ -23,10 +23,8 @@ https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF:-1 ,Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1 ,Ekattor TV
-https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1,BD: EKATTOR TV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5096.ts
+#EXTINF:-1,Banagala :Ekattor TV
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2382.ts
 #EXTINF:-1 ,Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 ,Independent TV
