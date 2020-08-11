@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Sony MaX HD
-http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
-#EXTINF:-1 ,BollyWood Hd
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1 ,Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 ,ATN Bangla
@@ -39,6 +35,10 @@ https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1 ,RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
+#EXTINF:-1 ,Sony MaX HD
+http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
+#EXTINF:-1 ,BollyWood Hd
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1 ,5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 ,7S Music
