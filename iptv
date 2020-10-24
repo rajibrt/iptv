@@ -1,6 +1,80 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangladeshi Channel",Machranga
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",Ekattor
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",Nagorik
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",Channeli
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",Dipto
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",Gtv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",Channel 9
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",SATV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",ntv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",ATN BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",Rtv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",INDIPENDENT
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",JAMUNA TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",SOMOY
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",ETV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",CHANNEL 24
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",BANGLAVISION
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",MY TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",BTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",SONY AATH
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",STAR JALSA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",JALSA MOVIE
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",SONY
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",SEE TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",ZEE CINEMA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",colors
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",SONY MAX
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",HUM MASALA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",HUM SITARAY
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",Bflix MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",B4U
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",Enterr10 MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",MN+
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",SONY PIX
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",&flix
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",AXN
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",STAR MOVIES SELECT
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+#EXTINF:-1 group-title="Bangladeshi Channel",HBO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
 #EXTINF:-1 group-title="Bangladeshi Channel",Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channel",ATN Bangla
