@@ -97,9 +97,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
 #EXTINF:-1 group-title="Bangladeshi Channel",DURDARSHAN
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.ts
-#EXTINF:-1 group-title="Bangladeshi Channel",ALJAZEERA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.ts
-#EXTINF:0 tvg-name="Al Jazeera" tvg-language="English" tvg-country="QA" tvg-id="Al Jazeera" tvg-logo="https://logoeps.com/wp-content/uploads/2011/06/al-jazeera-vector-logo.png" group-title="News",Al Jazeera (News) (QA) (English)
+#EXTINF:0 tvg-name="AL JAZERRA" tvg-language="English" tvg-country="QA" tvg-id="Al Jazeera" tvg-logo="https://logoeps.com/wp-content/uploads/2011/06/al-jazeera-vector-logo.png" group-title="News",Al Jazeera (News) (QA) (English)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.ts
 #EXTINF:-1 group-title="Bangladeshi Channel",NO NAME
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.ts
