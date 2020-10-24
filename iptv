@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Bangladeshi Channel",Machranga
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
 #EXTINF:-1 group-title="Bangladeshi Channel",Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channel",ATN Bangla
