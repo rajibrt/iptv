@@ -9,7 +9,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
 #EXTINF:-1 group-title="Bangladeshi Channel",Dipto
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
-#EXTINF:-1 group-title="Bangladeshi Channel",Gtv
+#EXTINF:-1 group-title="Bangladeshi Channel",GTV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 #EXTINF:-1 group-title="Bangladeshi Channel",Channel 9
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
