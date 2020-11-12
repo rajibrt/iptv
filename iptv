@@ -3,7 +3,7 @@
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
 #EXTINF:0 tvg-name="Ekattor" tvg-language="Bangla" tvg-country="BD" tvg-id="Machranga" tvg-logo="https://www.webtvbd.com/wp-content/uploads/2020/08/Ekattor-TV.jpg" group-title="News",Ekattor (News) (BD) (Bangla)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
-#EXTINF:-1 group-title="Bangladeshi Channel",Nagorik
+#EXTINF:0 tvg-name="Nagorik" tvg-language="Bangla" tvg-country="BD" tvg-id="Nagorik" tvg-logo="https://www.webtvbd.com/wp-content/uploads/2020/11/nagorik.jpg" group-title="Entertainment",Nagorik (Entertainment) (BD) (Bangla)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
 #EXTINF:-1 group-title="Bangladeshi Channel",Channeli
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
